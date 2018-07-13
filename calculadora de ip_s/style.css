@@ -1,0 +1,32 @@
+#tudo{
+    text-align: center;
+    padding-top: 50px;
+    padding-left: 325px;
+    padding-right: 325px;
+}
+
+#titulo1{
+    color: #55a062;
+    font-size: 60px;
+    margin: 0px;
+    text-shadow: #003819 0.2em 0.1em 0.3em;
+}
+
+#titulo2{
+    margin: 0px;
+}
+
+footer{
+    margin-top: 300px;
+}
+
+.ip{
+    margin-top: 30px;
+    width: 70px;
+    height: 20px;
+}
+
+.bot{
+    background-color: #55a062;
+    border: solid #2e5d35 2px ;
+}
